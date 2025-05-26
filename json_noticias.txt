@@ -1,0 +1,125 @@
+{
+  "totalArticles": 276630,
+  "articles": [
+    {
+      "title": "Trump estende prazo para tarifas de 50% sobre a União Europeia até 9 de julho",
+      "description": "Mudança de rota aconteceu após ligação com presidente da Comissão Europeia, Ursula von der Leyen",
+      "content": "O presidente Donald Trump afirmou que estenderá o prazo para que a União Europeia enfrente tarifas de 50% até 9 de julho, após uma ligação telefônica com a presidente da Comissão Europeia, Ursula von der Leyen.\n— Tivemos uma conversa muito agradável ... [3767 chars]",
+      "url": "https://oglobo.globo.com/economia/noticia/2025/05/25/trump-estende-prazo-para-tarifas-de-50percent-sobre-a-uniao-europeia-ate-9-de-julho.ghtml",
+      "image": "https://s2-oglobo.glbimg.com/w7-uuQyCsy3c6UhhXU40_j02pXE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2025/9/1/y8XTaeTae2pbbGGIb9LQ/afp-20250523-47tq2yu-v1-highres-uspoliticstrump.jpg",
+      "publishedAt": "2025-05-25T23:12:08Z",
+      "source": {
+        "name": "O Globo",
+        "url": "https://oglobo.globo.com"
+      }
+    },
+    {
+      "title": "Lauana Prado entra no palco em cima de caminhonete em mega show no Mineirão; veja vídeo",
+      "description": "Show 'Raiz Belo Horizonte' reúne sucessos da cantora, além de regravações de outros artistas",
+      "content": "Depois de despontar em 2018 com o hit “Cobaia” (dos versos “E quando for beijar alguém/ Testa esse beijo em mim”), ela voltou à crista da onda no ano passado com a regravação de “Escrito nas estrelas”, canção lançada por Tetê Espíndola em 1985. A ver... [515 chars]",
+      "url": "https://oglobo.globo.com/cultura/noticia/2025/05/25/lauana-prado-entra-no-palco-em-cima-de-caminhonete-em-mega-show-no-mineirao.ghtml",
+      "image": "https://s2-oglobo.glbimg.com/3-tnPwek2inEwBZnvb5mtHTJcU0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2025/Q/5/1UBsUaSBavL6ktlW1Xjg/111061327-sc-perfil-da-cantora-lauana-prado-divulgacao..jpg",
+      "publishedAt": "2025-05-25T22:19:05Z",
+      "source": {
+        "name": "O Globo",
+        "url": "https://oglobo.globo.com"
+      }
+    },
+    {
+      "title": "Vídeo: deputado flagra assalto a condomínio, persegue criminosos em carro oficial e prende 4 suspeitos em SP",
+      "description": "Delegado Olim (PP), que é policial civil aposentado, estava em um restaurante com amigos quando decidiu agir",
+      "content": "O deputado Delegado Olim (PP), de 66 anos, perseguiu e prendeu, na tarde desse sábado (24), quatro homens apontados como assaltantes em Moema, bairro nobre da Zona Sul de São Paulo .\nO parlamentar, que é um policial civil aposentado há seis anos, est... [998 chars]",
+      "url": "https://www.itatiaia.com.br/brasil/2025/05/25/video-deputado-flagra-assalto-a-condominio-persegue-criminosos-em-carro-oficial-e-prende-4-suspeitos-em-sp",
+      "image": "https://medias.itatiaia.com.br/dims4/default/468e414/2147483647/strip/true/crop/1200x630+0+23/resize/1200x630!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd9%2F88%2F16a4e96f4b569b7257c5715ae501%2Fcapa-materia-2025-05-25t191556-228.jpg",
+      "publishedAt": "2025-05-25T22:19:00Z",
+      "source": {
+        "name": "Rádio Itatiaia",
+        "url": "https://www.itatiaia.com.br"
+      }
+    },
+    {
+      "title": "Carlos Alberto de Nóbrega comemora 7 anos de casado com médica em hotel de luxo",
+      "description": "O apresentador de 89 anos se casou pela terceira vez com Renata Domingues, de 49 anos, em maio de 2018",
+      "content": "O apresentador Carlos Alberto de Nóbrega , de 89 anos, comemorou neste sábado (24) o aniversário de sete anos de casamento com Renata Domingues de Nóbrega.\n“Para festejar o dia do nosso casamento o melhor presente que nos demos foi passar quatro dias... [922 chars]",
+      "url": "https://www.itatiaia.com.br/entretenimento/2025/05/25/carlos-alberto-de-nobrega-comemora-7-anos-de-casado-com-medica-em-hotel-de-luxo",
+      "image": "https://medias.itatiaia.com.br/dims4/default/8f30188/2147483647/strip/true/crop/1200x630+0+23/resize/1200x630!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fab%2F04%2Fc6e533da4134aac482dccde44a29%2Fdesign-sem-nome-2025-05-25t185922-518.jpg",
+      "publishedAt": "2025-05-25T22:01:29Z",
+      "source": {
+        "name": "Rádio Itatiaia",
+        "url": "https://www.itatiaia.com.br"
+      }
+    },
+    {
+      "title": "Decisão de técnico do Santos sobre Neymar repercute na web",
+      "description": "Uma decisão do técnico do Santos, Cléber Xavier, em relação a Neymar, gerou muita polêmica nas redes sociais",
+      "content": "Santos e Vitória estão se enfrentando no Barradão, neste domingo (25), pela décima rodada do Campeonato Brasileiro. Uma decisão do técnico do Peixe, Cléber Xavier, em relação a Neymar, gerou polêmica nas redes sociais.\ncontinua após a publicidade\nDep... [2156 chars]",
+      "url": "https://www.lance.com.br/fora-de-campo/decisao-de-tecnico-do-santos-sobre-neymar-repercute-na-web.html",
+      "image": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,fit=cover,format=webp/uploads/2025/05/AGIF25052300265671-scaled-aspect-ratio-512-320-5.jpg",
+      "publishedAt": "2025-05-25T21:56:52Z",
+      "source": {
+        "name": "LANCE!",
+        "url": "https://www.lance.com.br"
+      }
+    },
+    {
+      "title": "Aguardo pedido de desculpas de Alexandre de Moraes, diz Rebelo",
+      "description": "Ex-ministro da Defesa, Rebelo foi ameaçado de prisão por ministro do STF; critica \"dupla insegurança\" no país. Leia no Poder360.",
+      "content": "Ex-ministro da Defesa foi ameaçado de prisão por ministro do STF; afirma não ter se intimidado e critica “dupla insegurança” no país\nO ex-ministro da Defesa Aldo Rebelo respondeu às críticas e ameaças do ministro do STF (Supremo Tribunal Federal) Ale... [3667 chars]",
+      "url": "https://www.poder360.com.br/brasil/aguardo-pedido-de-desculpas-de-alexandre-de-moraes-diz-rebelo/",
+      "image": "https://static.poder360.com.br/2021/07/27930628966_17bc609ec1_z-848x477.jpg",
+      "publishedAt": "2025-05-25T21:51:00Z",
+      "source": {
+        "name": "Poder360",
+        "url": "https://www.poder360.com.br"
+      }
+    },
+    {
+      "title": "​Volkswagen Tera chega com preços até R$ 145 mil, veja detalhes das quatro versões",
+      "description": "Novo SUV subcompacto da marca alemã chega ao mercado, mas nenhuma versão automática custa abaixo dos R$ 120 mil.",
+      "content": "A espera finalmente acabou! O Volkswagen Tera foi oficialmente lançado nesse domingo (25) após uma série de expectativas e de uma emblemática aparição em plena Marquês de Sapucaí no badalado Carnaval da cidade do Rio de Janeiro. Chega em quatro versõ... [2835 chars]",
+      "url": "https://mundodoautomovelparapcd.com.br/volkswagen-tera-chega-com-precos-ate-r-145-mil-veja-detalhes-das-quatro-versoes/",
+      "image": "https://mundodoautomovelparapcd.com.br/wp-content/uploads/2025/05/Volkswagen-Tera-Comfort-TSI-Manual-1.jpg",
+      "publishedAt": "2025-05-25T21:37:50Z",
+      "source": {
+        "name": "Mundo do Automóvel para PCD",
+        "url": "https://mundodoautomovelparapcd.com.br"
+      }
+    },
+    {
+      "title": "Xaud é \"testa de ferro\" de Sarney e Jucá na CBF, diz Garotinho",
+      "description": "Ex-governador do RJ, Garotinho afirma que Xaud terá influência de interventor, ex-presidente do STJD e político de Roraima. Leia no Poder360.",
+      "content": "Ex-governador do RJ afirma que o novo presidente eleito terá influência de interventor, ex-presidente do STJD e político de Roraima\nO ex-governador do Rio de Janeiro Anthony Garotinho afirmou na 6ª feira (23.mai.2025) que o presidente eleito da CBF (... [12787 chars]",
+      "url": "https://www.poder360.com.br/poder-sportsmkt/xaud-e-testa-de-ferro-de-sarney-e-juca-na-cbf-diz-garotinho/",
+      "image": "https://static.poder360.com.br/2024/09/anthony-garotinho-campanha-vereador-rio-2024-848x477.png",
+      "publishedAt": "2025-05-25T21:23:16Z",
+      "source": {
+        "name": "Poder360",
+        "url": "https://www.poder360.com.br"
+      }
+    },
+    {
+      "title": "Cientistas confirmam a localização do oitavo continente desaparecido da Terra",
+      "description": "Por décadas, geólogos especularam sobre a natureza continental dessa área submersa",
+      "content": "Nas águas do Pacífico Sul, geólogos identificaram uma enorme área de terra que permaneceu praticamente escondida sob a superfície. Muitos cientistas agora a consideram um continente separado, abrangendo quase 5 milhões de quilômetros quadrados.\nEspec... [5045 chars]",
+      "url": "https://www.itatiaia.com.br/trends/2025/05/25/cientistas-confirmam-a-localizacao-do-oitavo-continente-desaparecido-da-terra",
+      "image": "https://medias.itatiaia.com.br/dims4/default/3e9e50e/2147483647/strip/true/crop/1219x640+30+0/resize/1200x630!/format/webp/quality/90/?url=https%3A%2F%2Fk2-prod-radio-itatiaia.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe1%2F3e%2F0ce090de47f29feae401ab14d75a%2Fplaneta-terra-continentes.jpg",
+      "publishedAt": "2025-05-25T21:08:31Z",
+      "source": {
+        "name": "Rádio Itatiaia",
+        "url": "https://www.itatiaia.com.br"
+      }
+    },
+    {
+      "title": "PC Oliveira dá veredito de pênalti polêmico em Palmeiras x Flamengo",
+      "description": "O Flamengo venceu o Palmeiras por 2 a 0, neste domingo (25), no Allianz Parque, pela décima rodada do Brasileirão.",
+      "content": "O Flamengo venceu o Palmeiras por 2 a 0, neste domingo (25), no Allianz Parque, pela décima rodada do Brasileirão. O primeiro gol da equipe de Filipe Luís no confronto foi marcado através de um pênalti polêmico. Na transmissão da Rede Globo, Paulo Cé... [1454 chars]",
+      "url": "https://www.lance.com.br/fora-de-campo/pc-oliveira-da-veredito-de-penalti-polemico-em-palmeiras-x-flamengo.html",
+      "image": "https://lncimg.lance.com.br/cdn-cgi/image/width=1280,height=720,quality=75,fit=cover,format=webp/uploads/2025/05/futebolbahiano.org-ex-arbitros-concordam-com-expulsao-de-gregore-agredir-e-cartao-vermelho-pc-oliveira-aspect-ratio-512-320-4.jpg",
+      "publishedAt": "2025-05-25T21:06:51Z",
+      "source": {
+        "name": "LANCE!",
+        "url": "https://www.lance.com.br"
+      }
+    }
+  ]
+}
