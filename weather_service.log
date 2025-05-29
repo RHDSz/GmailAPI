@@ -1,0 +1,324 @@
+2025-05-28 19:36:51,879 - INFO - Generando reporte para ciudad: La Serena, pa铆s: CL
+2025-05-28 19:36:51,879 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-28 19:36:51,968 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-28 19:36:51,969 - INFO - Obteniendo noticias de: emol
+2025-05-28 19:37:01,941 - INFO - Noticias obtenidas de emol: 5
+2025-05-28 19:37:01,941 - INFO - Obteniendo noticias de: la_tercera
+2025-05-28 19:37:02,173 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-28 19:37:02,173 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-28 19:37:03,286 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-28 19:37:03,286 - INFO - Total de noticias obtenidas: 5
+2025-05-28 19:37:03,286 - INFO - Obteniendo informaci贸n para el pa铆s con c贸digo: CL
+2025-05-28 19:37:03,390 - INFO - Informaci贸n obtenida exitosamente para c贸digo: CL
+2025-05-28 19:37:03,392 - INFO - Reporte generado exitosamente
+2025-05-28 19:37:03,392 - INFO - Generando reporte HTML para ciudad: La Serena, pa铆s: CL
+2025-05-28 19:37:03,392 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-28 19:37:03,499 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-28 19:37:03,501 - INFO - Obteniendo noticias de: emol
+2025-05-28 19:37:12,628 - INFO - Noticias obtenidas de emol: 5
+2025-05-28 19:37:12,628 - INFO - Obteniendo noticias de: la_tercera
+2025-05-28 19:37:12,863 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-28 19:37:12,863 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-28 19:37:13,956 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-28 19:37:13,956 - INFO - Total de noticias obtenidas: 5
+2025-05-28 19:37:13,957 - INFO - Obteniendo informaci贸n para el pa铆s con c贸digo: CL
+2025-05-28 19:37:14,032 - INFO - Informaci贸n obtenida exitosamente para c贸digo: CL
+2025-05-28 19:37:14,033 - INFO - Reporte HTML generado exitosamente
+2025-05-28 19:37:14,034 - INFO - Reporte guardado exitosamente en: reporte.txt
+2025-05-28 19:37:14,034 - INFO - Reporte HTML guardado exitosamente en: reporte.html
+2025-05-28 20:17:58,320 - INFO - Iniciando env韔 autom醫ico en 28/05/2025 a las 20:17:58
+2025-05-28 20:17:58,320 - INFO - Par醡etros: ciudad=La Serena, pa韘=CL, destinatario=fcer14.2002@gmail.com
+2025-05-28 20:17:58,320 - INFO - Generando reporte HTML para ciudad: La Serena, pa韘: CL
+2025-05-28 20:17:58,320 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-28 20:17:59,171 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-28 20:17:59,172 - INFO - Obteniendo noticias de: emol
+2025-05-28 20:18:03,503 - INFO - Noticias obtenidas de emol: 3
+2025-05-28 20:18:03,503 - INFO - Obteniendo noticias de: la_tercera
+2025-05-28 20:18:04,610 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-28 20:18:04,610 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-28 20:18:05,232 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-28 20:18:05,232 - INFO - Obteniendo noticias de: biobio
+2025-05-28 20:18:05,232 - ERROR - Error al obtener noticias de biobio: unknown url type: ''
+2025-05-28 20:18:05,232 - INFO - Obteniendo noticias de: cooperativa
+2025-05-28 20:18:05,232 - ERROR - Error al obtener noticias de cooperativa: unknown url type: ''
+2025-05-28 20:18:05,232 - INFO - Total de noticias obtenidas: 3
+2025-05-28 20:18:05,232 - INFO - Obteniendo informaci髇 para el pa韘 con c骴igo: CL
+2025-05-28 20:18:06,026 - INFO - Informaci髇 obtenida exitosamente para c骴igo: CL
+2025-05-28 20:18:06,027 - INFO - Reporte HTML generado exitosamente
+2025-05-28 20:18:06,027 - INFO - Copia local guardada en: reporte_20250528_201758.html
+2025-05-28 20:18:06,028 - INFO - Enviando reporte a fcer14.2002@gmail.com
+2025-05-28 20:18:06,028 - INFO - Enviando correo a: fcer14.2002@gmail.com
+2025-05-28 20:18:15,530 - INFO - "GET /?state=LOFxVqa1xIpwaiTmcxs5OK8wGjdTDx&code=4/0AUJR-x6jFgSFN8AZSZERJfd7gLOnN_6bnLPR7bO1CcpmQRxjc-_v1CiGdMyzgr1jkDOISA&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2025-05-28 20:18:16,155 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-28 20:18:16,167 - INFO - Autenticaci髇 con Gmail exitosa
+2025-05-28 20:18:17,197 - INFO - Correo enviado exitosamente a fcer14.2002@gmail.com, ID: 197196769c5d8ae9
+2025-05-28 20:18:17,197 - INFO - Correo enviado exitosamente. ID del mensaje: 197196769c5d8ae9
+2025-05-28 20:18:17,197 - INFO - Reporte enviado exitosamente
+2025-05-28 20:23:54,121 - INFO - Iniciando env韔 autom醫ico en 28/05/2025 a las 20:23:54
+2025-05-28 20:23:54,121 - INFO - Par醡etros: ciudad=La Serena, pa韘=CL, destinatario=fcer14.2002@gmail.com
+2025-05-28 20:23:54,121 - INFO - Generando reporte HTML para ciudad: La Serena, pa韘: CL
+2025-05-28 20:23:54,121 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-28 20:23:55,038 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-28 20:23:55,038 - INFO - Obteniendo noticias de: emol
+2025-05-28 20:23:59,168 - INFO - Noticias obtenidas de emol: 3
+2025-05-28 20:23:59,168 - INFO - Obteniendo noticias de: la_tercera
+2025-05-28 20:24:00,651 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-28 20:24:00,651 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-28 20:24:01,478 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-28 20:24:01,478 - INFO - Obteniendo noticias de: biobio
+2025-05-28 20:24:01,478 - ERROR - Error al obtener noticias de biobio: unknown url type: ''
+2025-05-28 20:24:01,478 - INFO - Obteniendo noticias de: cooperativa
+2025-05-28 20:24:01,479 - ERROR - Error al obtener noticias de cooperativa: unknown url type: ''
+2025-05-28 20:24:01,479 - INFO - Total de noticias obtenidas: 3
+2025-05-28 20:24:01,479 - INFO - Obteniendo informaci髇 para el pa韘 con c骴igo: CL
+2025-05-28 20:24:02,266 - INFO - Informaci髇 obtenida exitosamente para c骴igo: CL
+2025-05-28 20:24:02,267 - INFO - Reporte HTML generado exitosamente
+2025-05-28 20:24:02,267 - INFO - Copia local guardada en: reporte_20250528_202354.html
+2025-05-28 20:24:02,267 - INFO - Enviando reporte a fcer14.2002@gmail.com
+2025-05-28 20:24:02,267 - INFO - Enviando correo a: fcer14.2002@gmail.com
+2025-05-28 20:24:02,274 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-28 20:24:02,275 - INFO - Autenticaci髇 con Gmail exitosa
+2025-05-28 20:24:03,268 - INFO - Correo enviado exitosamente a fcer14.2002@gmail.com, ID: 197196cb113c3ac2
+2025-05-28 20:24:03,268 - INFO - Correo enviado exitosamente. ID del mensaje: 197196cb113c3ac2
+2025-05-28 20:24:03,268 - INFO - Reporte enviado exitosamente
+2025-05-28 20:25:14,567 - INFO - Iniciando env韔 autom醫ico en 28/05/2025 a las 20:25:14
+2025-05-28 20:25:14,568 - INFO - Par醡etros: ciudad=La Serena, pa韘=CL, destinatario=fcer14.2002@gmail.com
+2025-05-28 20:25:14,568 - INFO - Generando reporte HTML para ciudad: La Serena, pa韘: CL
+2025-05-28 20:25:14,568 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-28 20:25:15,342 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-28 20:25:15,343 - INFO - Obteniendo noticias de: emol
+2025-05-28 20:25:18,095 - INFO - Noticias obtenidas de emol: 3
+2025-05-28 20:25:18,095 - INFO - Obteniendo noticias de: la_tercera
+2025-05-28 20:25:21,496 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-28 20:25:21,496 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-28 20:25:22,069 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-28 20:25:22,069 - INFO - Obteniendo noticias de: biobio
+2025-05-28 20:25:22,069 - ERROR - Error al obtener noticias de biobio: unknown url type: ''
+2025-05-28 20:25:22,069 - INFO - Obteniendo noticias de: cooperativa
+2025-05-28 20:25:22,069 - ERROR - Error al obtener noticias de cooperativa: unknown url type: ''
+2025-05-28 20:25:22,069 - INFO - Total de noticias obtenidas: 3
+2025-05-28 20:25:22,069 - INFO - Obteniendo informaci髇 para el pa韘 con c骴igo: CL
+2025-05-28 20:25:22,898 - INFO - Informaci髇 obtenida exitosamente para c骴igo: CL
+2025-05-28 20:25:22,899 - INFO - Reporte HTML generado exitosamente
+2025-05-28 20:25:22,900 - INFO - Copia local guardada en: reporte_20250528_202514.html
+2025-05-28 20:25:22,900 - INFO - Enviando reporte a fcer14.2002@gmail.com
+2025-05-28 20:25:22,900 - INFO - Enviando correo a: fcer14.2002@gmail.com
+2025-05-28 20:25:22,904 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-28 20:25:22,905 - INFO - Autenticaci髇 con Gmail exitosa
+2025-05-28 20:25:23,823 - INFO - Correo enviado exitosamente a fcer14.2002@gmail.com, ID: 197196debe974670
+2025-05-28 20:25:23,823 - INFO - Correo enviado exitosamente. ID del mensaje: 197196debe974670
+2025-05-28 20:25:23,823 - INFO - Reporte enviado exitosamente
+2025-05-28 20:36:07,671 - INFO - Iniciando env韔 autom醫ico en 28/05/2025 a las 20:36:07
+2025-05-28 20:36:07,672 - INFO - Par醡etros: ciudad=La Serena, pa韘=CL, destinatario=fcer14.2002@gmail.com
+2025-05-28 20:36:07,672 - INFO - Generando reporte HTML para ciudad: La Serena, pa韘: CL
+2025-05-28 20:36:07,672 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-28 20:36:08,659 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-28 20:36:08,660 - INFO - Obteniendo noticias de: emol
+2025-05-28 20:36:12,718 - INFO - Noticias obtenidas de emol: 3
+2025-05-28 20:36:12,718 - INFO - Obteniendo noticias de: la_tercera
+2025-05-28 20:36:14,022 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-28 20:36:14,022 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-28 20:36:14,547 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-28 20:36:14,547 - INFO - Obteniendo noticias de: biobio
+2025-05-28 20:36:14,547 - ERROR - Error al obtener noticias de biobio: unknown url type: ''
+2025-05-28 20:36:14,547 - INFO - Obteniendo noticias de: cooperativa
+2025-05-28 20:36:14,547 - ERROR - Error al obtener noticias de cooperativa: unknown url type: ''
+2025-05-28 20:36:14,547 - INFO - Total de noticias obtenidas: 3
+2025-05-28 20:36:14,547 - INFO - Obteniendo informaci髇 para el pa韘 con c骴igo: CL
+2025-05-28 20:36:15,836 - INFO - Informaci髇 obtenida exitosamente para c骴igo: CL
+2025-05-28 20:36:15,838 - INFO - Reporte HTML generado exitosamente
+2025-05-28 20:36:15,838 - INFO - Copia local guardada en: reporte_20250528_203607.html
+2025-05-28 20:36:15,838 - INFO - Enviando reporte a fcer14.2002@gmail.com
+2025-05-28 20:36:15,838 - INFO - Enviando correo a: fcer14.2002@gmail.com
+2025-05-28 20:36:15,843 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-28 20:36:15,844 - INFO - Autenticaci髇 con Gmail exitosa
+2025-05-28 20:36:17,302 - INFO - Correo enviado exitosamente a fcer14.2002@gmail.com, ID: 1971977e28050884
+2025-05-28 20:36:17,302 - INFO - Correo enviado exitosamente. ID del mensaje: 1971977e28050884
+2025-05-28 20:36:17,303 - INFO - Reporte enviado exitosamente
+2025-05-29 16:55:35,648 - INFO - Iniciando env韔 autom醫ico en 29/05/2025 a las 16:55:35
+2025-05-29 16:55:35,648 - INFO - Par醡etros: ciudad=La Serena, pa韘=CL, destinatario=fcer14.2002@gmail.com
+2025-05-29 16:55:35,648 - INFO - Generando reporte HTML para ciudad: La Serena, pa韘: CL
+2025-05-29 16:55:35,648 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-29 16:55:36,523 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-29 16:55:36,524 - INFO - Obteniendo noticias de: emol
+2025-05-29 16:55:41,765 - INFO - Noticias obtenidas de emol: 3
+2025-05-29 16:55:41,765 - INFO - Obteniendo noticias de: la_tercera
+2025-05-29 16:55:42,758 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-29 16:55:42,758 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-29 16:55:43,285 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-29 16:55:43,286 - INFO - Obteniendo noticias de: biobio
+2025-05-29 16:55:43,286 - ERROR - Error al obtener noticias de biobio: unknown url type: ''
+2025-05-29 16:55:43,286 - INFO - Obteniendo noticias de: cooperativa
+2025-05-29 16:55:43,286 - ERROR - Error al obtener noticias de cooperativa: unknown url type: ''
+2025-05-29 16:55:43,286 - INFO - Total de noticias obtenidas: 3
+2025-05-29 16:55:43,286 - INFO - Obteniendo informaci髇 para el pa韘 con c骴igo: CL
+2025-05-29 16:55:44,312 - INFO - Informaci髇 obtenida exitosamente para c骴igo: CL
+2025-05-29 16:55:44,313 - INFO - Reporte HTML generado exitosamente
+2025-05-29 16:55:44,314 - INFO - Copia local guardada en: reporte_20250529_165535.html
+2025-05-29 16:55:44,314 - INFO - Enviando reporte a fcer14.2002@gmail.com
+2025-05-29 16:55:44,314 - INFO - Enviando correo a: fcer14.2002@gmail.com
+2025-05-29 16:55:45,218 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-29 16:55:45,231 - INFO - Autenticaci髇 con Gmail exitosa
+2025-05-29 16:55:46,650 - INFO - Correo enviado exitosamente a fcer14.2002@gmail.com, ID: 1971dd45843c6b0f
+2025-05-29 16:55:46,650 - INFO - Correo enviado exitosamente. ID del mensaje: 1971dd45843c6b0f
+2025-05-29 16:55:46,650 - INFO - Reporte enviado exitosamente
+2025-05-29 17:29:40,446 - INFO - Iniciando env韔 autom醫ico en 29/05/2025 a las 17:29:40
+2025-05-29 17:29:40,446 - INFO - Par醡etros: ciudad=La Serena, pa韘=CL, destinatario=fcer14.2002@gmail.com
+2025-05-29 17:29:40,446 - INFO - Generando reporte HTML para ciudad: La Serena, pa韘: CL
+2025-05-29 17:29:40,446 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-29 17:29:41,424 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-29 17:29:41,425 - INFO - Obteniendo noticias de: emol
+2025-05-29 17:29:42,973 - INFO - Noticias obtenidas de emol: 3
+2025-05-29 17:29:42,973 - INFO - Obteniendo noticias de: la_tercera
+2025-05-29 17:29:43,570 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-29 17:29:43,570 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-29 17:29:43,936 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-29 17:29:43,937 - INFO - Obteniendo noticias de: biobio
+2025-05-29 17:29:43,937 - ERROR - Error al obtener noticias de biobio: unknown url type: ''
+2025-05-29 17:29:43,937 - INFO - Obteniendo noticias de: cooperativa
+2025-05-29 17:29:43,937 - ERROR - Error al obtener noticias de cooperativa: unknown url type: ''
+2025-05-29 17:29:43,937 - INFO - Total de noticias obtenidas: 3
+2025-05-29 17:29:43,937 - INFO - Obteniendo informaci髇 para el pa韘 con c骴igo: CL
+2025-05-29 17:29:44,666 - INFO - Informaci髇 obtenida exitosamente para c骴igo: CL
+2025-05-29 17:29:44,667 - INFO - Reporte HTML generado exitosamente
+2025-05-29 17:29:44,668 - INFO - Copia local guardada en: reporte_20250529_172940.html
+2025-05-29 17:29:44,668 - INFO - Enviando reporte a fcer14.2002@gmail.com
+2025-05-29 17:29:44,668 - INFO - Enviando correo a: fcer14.2002@gmail.com
+2025-05-29 17:29:44,673 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-29 17:29:44,674 - INFO - Autenticaci髇 con Gmail exitosa
+2025-05-29 17:29:45,644 - INFO - Correo enviado exitosamente a fcer14.2002@gmail.com, ID: 1971df3768de8cbd
+2025-05-29 17:29:45,644 - INFO - Correo enviado exitosamente. ID del mensaje: 1971df3768de8cbd
+2025-05-29 17:29:45,644 - INFO - Reporte enviado exitosamente
+2025-05-29 17:34:40,398 - INFO - Iniciando env韔 autom醫ico en 29/05/2025 a las 17:34:40
+2025-05-29 17:34:40,399 - INFO - Par醡etros: ciudad=La Serena, pa韘=CL, destinatario=fcer14.2002@gmail.com
+2025-05-29 17:34:40,399 - INFO - Generando reporte HTML para ciudad: La Serena, pa韘: CL
+2025-05-29 17:34:40,399 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-29 17:34:41,344 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-29 17:34:41,345 - INFO - Obteniendo noticias de: emol
+2025-05-29 17:34:42,955 - INFO - Noticias obtenidas de emol: 3
+2025-05-29 17:34:42,955 - INFO - Obteniendo noticias de: la_tercera
+2025-05-29 17:34:44,516 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-29 17:34:44,516 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-29 17:34:44,921 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-29 17:34:44,921 - INFO - Obteniendo noticias de: biobio
+2025-05-29 17:34:44,921 - ERROR - Error al obtener noticias de biobio: unknown url type: ''
+2025-05-29 17:34:44,921 - INFO - Obteniendo noticias de: cooperativa
+2025-05-29 17:34:44,921 - ERROR - Error al obtener noticias de cooperativa: unknown url type: ''
+2025-05-29 17:34:44,921 - INFO - Total de noticias obtenidas: 3
+2025-05-29 17:34:44,921 - INFO - Obteniendo informaci髇 para el pa韘 con c骴igo: CL
+2025-05-29 17:34:45,599 - INFO - Informaci髇 obtenida exitosamente para c骴igo: CL
+2025-05-29 17:34:45,600 - INFO - Reporte HTML generado exitosamente
+2025-05-29 17:34:45,601 - INFO - Copia local guardada en: reporte_20250529_173440.html
+2025-05-29 17:34:45,601 - INFO - Enviando reporte a fcer14.2002@gmail.com
+2025-05-29 17:34:45,601 - INFO - Enviando correo a: fcer14.2002@gmail.com
+2025-05-29 17:34:45,606 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-29 17:34:45,608 - INFO - Autenticaci髇 con Gmail exitosa
+2025-05-29 17:34:47,043 - INFO - Correo enviado exitosamente a fcer14.2002@gmail.com, ID: 1971df80fd0276ec
+2025-05-29 17:34:47,043 - INFO - Correo enviado exitosamente. ID del mensaje: 1971df80fd0276ec
+2025-05-29 17:34:47,045 - INFO - Reporte enviado exitosamente
+2025-05-29 17:39:40,399 - INFO - Iniciando env韔 autom醫ico en 29/05/2025 a las 17:39:40
+2025-05-29 17:39:40,399 - INFO - Par醡etros: ciudad=La Serena, pa韘=CL, destinatario=fcer14.2002@gmail.com
+2025-05-29 17:39:40,399 - INFO - Generando reporte HTML para ciudad: La Serena, pa韘: CL
+2025-05-29 17:39:40,399 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-29 17:39:41,311 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-29 17:39:41,312 - INFO - Obteniendo noticias de: emol
+2025-05-29 17:39:43,000 - INFO - Noticias obtenidas de emol: 3
+2025-05-29 17:39:43,000 - INFO - Obteniendo noticias de: la_tercera
+2025-05-29 17:39:43,649 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-29 17:39:43,649 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-29 17:39:44,289 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-29 17:39:44,289 - INFO - Obteniendo noticias de: biobio
+2025-05-29 17:39:44,289 - ERROR - Error al obtener noticias de biobio: unknown url type: ''
+2025-05-29 17:39:44,289 - INFO - Obteniendo noticias de: cooperativa
+2025-05-29 17:39:44,289 - ERROR - Error al obtener noticias de cooperativa: unknown url type: ''
+2025-05-29 17:39:44,289 - INFO - Total de noticias obtenidas: 3
+2025-05-29 17:39:44,289 - INFO - Obteniendo informaci髇 para el pa韘 con c骴igo: CL
+2025-05-29 17:39:45,119 - INFO - Informaci髇 obtenida exitosamente para c骴igo: CL
+2025-05-29 17:39:45,120 - INFO - Reporte HTML generado exitosamente
+2025-05-29 17:39:45,121 - INFO - Copia local guardada en: reporte_20250529_173940.html
+2025-05-29 17:39:45,121 - INFO - Enviando reporte a fcer14.2002@gmail.com
+2025-05-29 17:39:45,121 - INFO - Enviando correo a: fcer14.2002@gmail.com
+2025-05-29 17:39:45,126 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-29 17:39:45,127 - INFO - Autenticaci髇 con Gmail exitosa
+2025-05-29 17:39:46,144 - INFO - Correo enviado exitosamente a fcer14.2002@gmail.com, ID: 1971dfca0156611b
+2025-05-29 17:39:46,144 - INFO - Correo enviado exitosamente. ID del mensaje: 1971dfca0156611b
+2025-05-29 17:39:46,146 - INFO - Reporte enviado exitosamente
+2025-05-29 17:41:36,832 - INFO - Iniciando env韔 autom醫ico en 29/05/2025 a las 17:41:36
+2025-05-29 17:41:36,832 - INFO - Par醡etros: ciudad=La Serena, pa韘=CL, destinatario=fcer14.2002@gmail.com
+2025-05-29 17:41:36,832 - INFO - Generando reporte HTML para ciudad: La Serena, pa韘: CL
+2025-05-29 17:41:36,832 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-29 17:41:37,725 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-29 17:41:37,725 - INFO - Obteniendo noticias de: la_tercera
+2025-05-29 17:41:38,475 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-29 17:41:38,475 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-29 17:41:38,860 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-29 17:41:38,860 - INFO - Obteniendo noticias de: biobio
+2025-05-29 17:41:38,860 - ERROR - Error al obtener noticias de biobio: unknown url type: ''
+2025-05-29 17:41:38,860 - INFO - Obteniendo noticias de: cooperativa
+2025-05-29 17:41:38,860 - ERROR - Error al obtener noticias de cooperativa: unknown url type: ''
+2025-05-29 17:41:38,860 - INFO - Total de noticias obtenidas: 0
+2025-05-29 17:41:38,861 - INFO - Obteniendo informaci髇 para el pa韘 con c骴igo: CL
+2025-05-29 17:41:39,570 - INFO - Informaci髇 obtenida exitosamente para c骴igo: CL
+2025-05-29 17:41:39,571 - INFO - Reporte HTML generado exitosamente
+2025-05-29 17:41:39,572 - INFO - Copia local guardada en: reporte_20250529_174136.html
+2025-05-29 17:41:39,572 - INFO - Enviando reporte a fcer14.2002@gmail.com
+2025-05-29 17:41:39,572 - INFO - Enviando correo a: fcer14.2002@gmail.com
+2025-05-29 17:41:39,576 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-29 17:41:39,580 - INFO - Autenticaci髇 con Gmail exitosa
+2025-05-29 17:41:41,205 - INFO - Correo enviado exitosamente a fcer14.2002@gmail.com, ID: 1971dfe60f73cecc
+2025-05-29 17:41:41,205 - INFO - Correo enviado exitosamente. ID del mensaje: 1971dfe60f73cecc
+2025-05-29 17:41:41,205 - INFO - Reporte enviado exitosamente
+2025-05-29 17:42:20,793 - INFO - Iniciando env韔 autom醫ico en 29/05/2025 a las 17:42:20
+2025-05-29 17:42:20,793 - INFO - Par醡etros: ciudad=La Serena, pa韘=CL, destinatario=fcer14.2002@gmail.com
+2025-05-29 17:42:20,794 - INFO - Generando reporte HTML para ciudad: La Serena, pa韘: CL
+2025-05-29 17:42:20,794 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-29 17:42:21,546 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-29 17:42:21,547 - INFO - Obteniendo noticias de: emol
+2025-05-29 17:42:23,944 - INFO - Noticias obtenidas de emol: 3
+2025-05-29 17:42:23,944 - INFO - Obteniendo noticias de: la_tercera
+2025-05-29 17:42:24,857 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-29 17:42:24,858 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-29 17:42:25,351 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-29 17:42:25,351 - INFO - Obteniendo noticias de: biobio
+2025-05-29 17:42:25,351 - ERROR - Error al obtener noticias de biobio: unknown url type: ''
+2025-05-29 17:42:25,352 - INFO - Obteniendo noticias de: cooperativa
+2025-05-29 17:42:25,352 - ERROR - Error al obtener noticias de cooperativa: unknown url type: ''
+2025-05-29 17:42:25,352 - INFO - Total de noticias obtenidas: 3
+2025-05-29 17:42:25,352 - INFO - Obteniendo informaci髇 para el pa韘 con c骴igo: CL
+2025-05-29 17:42:26,460 - INFO - Informaci髇 obtenida exitosamente para c骴igo: CL
+2025-05-29 17:42:26,462 - INFO - Reporte HTML generado exitosamente
+2025-05-29 17:42:26,462 - INFO - Copia local guardada en: reporte_20250529_174220.html
+2025-05-29 17:42:26,462 - INFO - Enviando reporte a fcer14.2002@gmail.com
+2025-05-29 17:42:26,462 - INFO - Enviando correo a: fcer14.2002@gmail.com
+2025-05-29 17:42:26,466 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-29 17:42:26,468 - INFO - Autenticaci髇 con Gmail exitosa
+2025-05-29 17:42:27,686 - INFO - Correo enviado exitosamente a fcer14.2002@gmail.com, ID: 1971dff1722736f0
+2025-05-29 17:42:27,686 - INFO - Correo enviado exitosamente. ID del mensaje: 1971dff1722736f0
+2025-05-29 17:42:27,687 - INFO - Reporte enviado exitosamente
+2025-05-29 17:44:40,504 - INFO - Iniciando env韔 autom醫ico en 29/05/2025 a las 17:44:40
+2025-05-29 17:44:40,505 - INFO - Par醡etros: ciudad=La Serena, pa韘=CL, destinatario=fcer14.2002@gmail.com
+2025-05-29 17:44:40,505 - INFO - Generando reporte HTML para ciudad: La Serena, pa韘: CL
+2025-05-29 17:44:40,505 - INFO - Obteniendo datos del clima para: La Serena
+2025-05-29 17:44:41,255 - INFO - Datos del clima obtenidos exitosamente para: La Serena
+2025-05-29 17:44:41,256 - INFO - Obteniendo noticias de: emol
+2025-05-29 17:44:42,819 - INFO - Noticias obtenidas de emol: 3
+2025-05-29 17:44:42,819 - INFO - Obteniendo noticias de: la_tercera
+2025-05-29 17:44:43,787 - INFO - Noticias obtenidas de la_tercera: 0
+2025-05-29 17:44:43,787 - INFO - Obteniendo noticias de: el_mostrador
+2025-05-29 17:44:44,110 - ERROR - Error al obtener noticias de el_mostrador: 'NoneType' object has no attribute 'find'
+2025-05-29 17:44:44,110 - INFO - Obteniendo noticias de: biobio
+2025-05-29 17:44:44,110 - ERROR - Error al obtener noticias de biobio: unknown url type: ''
+2025-05-29 17:44:44,110 - INFO - Obteniendo noticias de: cooperativa
+2025-05-29 17:44:44,110 - ERROR - Error al obtener noticias de cooperativa: unknown url type: ''
+2025-05-29 17:44:44,110 - INFO - Total de noticias obtenidas: 3
+2025-05-29 17:44:44,110 - INFO - Obteniendo informaci髇 para el pa韘 con c骴igo: CL
+2025-05-29 17:44:44,808 - INFO - Informaci髇 obtenida exitosamente para c骴igo: CL
+2025-05-29 17:44:44,809 - INFO - Reporte HTML generado exitosamente
+2025-05-29 17:44:44,809 - INFO - Copia local guardada en: reporte_20250529_174440.html
+2025-05-29 17:44:44,809 - INFO - Enviando reporte a fcer14.2002@gmail.com
+2025-05-29 17:44:44,809 - INFO - Enviando correo a: fcer14.2002@gmail.com
+2025-05-29 17:44:44,814 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-05-29 17:44:44,815 - INFO - Autenticaci髇 con Gmail exitosa
+2025-05-29 17:44:45,780 - INFO - Correo enviado exitosamente a fcer14.2002@gmail.com, ID: 1971e01328d86bf4
+2025-05-29 17:44:45,780 - INFO - Correo enviado exitosamente. ID del mensaje: 1971e01328d86bf4
+2025-05-29 17:44:45,783 - INFO - Reporte enviado exitosamente
