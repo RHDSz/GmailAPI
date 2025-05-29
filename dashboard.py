@@ -4,9 +4,10 @@ from typing import Dict, List
 import logging
 from config import API_KEYS, SETTINGS
 from weather_service import WeatherService
-from news_service import NewsService
+from news_service import NewsService 
+# Importa los servicios de clima y noticias
 
-class Dashboard:
+class Dashboard: # Clase principal del dashboard que combina clima y noticias
     def __init__(self):
         self.logger = self._setup_logging()
 
@@ -19,17 +20,19 @@ class Dashboard:
         )
         return logging.getLogger(__name__)
 
-    def generate_report(self, weather_data: Dict, news_data: Dict) -> Dict:
+    def generate_report(self, weather_data: Dict, news_data: Dict, country_code: str) -> Dict:
         """Genera un reporte combinando datos de clima y noticias"""
         try:
             city_name = weather_data.get("name", "Ciudad desconocida")
-            country_code = news_data.get("country", "país desconocido").upper()
+            
+            # Usamos el código de país que se ingresó originalmente
+            country_display = country_code.upper() if country_code else "país desconocido"
         
             return {
                 "date": datetime.now().isoformat(),
                 "location": {
                     "city": city_name,
-                    "country": country_code
+                    "country": country_display
                 },
                 "weather": self._format_weather_data(weather_data),
                 "news": self._format_news_data(news_data.get("articles", []))
@@ -111,7 +114,8 @@ class Dashboard:
             weather = WeatherService().get_weather(city)
             news = NewsService().get_news(country)
             
-            report = self.generate_report(weather, news)
+            # Pasamos el código de país que ingresó el usuario
+            report = self.generate_report(weather, news, country)
             self.display(report)
             
             if export_file:
